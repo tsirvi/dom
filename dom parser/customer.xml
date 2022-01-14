@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <customer>
+        <firstname>Trishna</firstname>
+        <lastname>sirvi</lastname>
+        <place>Bengaluru</place>
+        <source>Bengaluru</source>
+        <destination>Goa</destination>
+        <age>21</age>
+    </customer>
+    <customer>
+        <firstname>Sweta</firstname>
+        <lastname>ks</lastname>
+        <place>Bengaluru</place>
+        <source>Goa</source>
+        <destination>Chennai</destination>
+        <age>21</age>
+    </customer>
+    <customer>
+        <firstname>Nitya</firstname>
+        <lastname>Kumari</lastname>
+        <place>Kolkata</place>
+        <source>Mumbai</source>
+        <destination>Kolkata</destination>
+        <age>20</age>
+    </customer>
+    <customer>
+        <firstname>meghana</firstname>
+        <lastname>s</lastname>
+        <place>Mumbai</place>
+        <source>mumbai</source>
+        <destination>Delhi</destination>
+        <age>21</age>
+    </customer>
+    <customer>
+        <firstname>Athira</firstname>
+        <lastname>Kumari</lastname>
+        <place>Chandighad</place>
+        <source>Bengaluru</source>
+        <destination>Ranchi</destination>
+        <age>21</age>
+    </customer>
+    
+</customers>
